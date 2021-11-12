@@ -1,14 +1,19 @@
 /* buttons */
-.btn-primary {
+.btn-special {
     background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity));
     color: #ffffff;
     border: 1px solid #ddd
 }
 
-.btn-primary:hover {
+.btn-special:hover {
     color: #000;
     background-color: #f8f9fa;
     border-color: #f8f9fa;
+}
+
+.socialsbtn:hover {    
+    color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity));
+    background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity));
 }
 
 /* test of Hendrika styling */
