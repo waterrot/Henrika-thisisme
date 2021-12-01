@@ -1,3 +1,14 @@
+/* logo */
+.logo {
+    float: left;
+    width: 15%;
+    height: 15%;
+}
+
+.round {
+    border-radius: 50%;
+}
+
 /* buttons */
 .btn-special {
     background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity));
